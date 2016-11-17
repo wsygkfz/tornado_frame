@@ -1,8 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 
-*log
-*logs
-*logs/
+log
+logs
+logs/
 
 *.pyc
+
+.idea/
